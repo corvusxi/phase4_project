@@ -14,7 +14,8 @@ Non-negative matrix factorization produced the follow 5 top topics:
 5. Amazon Stock Performance
 
 t-SNE visualization:
-<img src="images/t-SNE.jpg" alt="t-SNE"/>
+
+<img src="images/tSNE.jpg" alt="t-SNE"/>
 
 This dataset is imbalanced due number of non-MAMAA stocks. Most of that category is weighed by Tesla. We can make a guess that this due to the
 timing when this dataset was scrapped as the news cycle in this time period was Elon Musk considering buying Twitter and its purchase.
